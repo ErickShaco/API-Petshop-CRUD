@@ -19,7 +19,7 @@ npm install express dotenv
    ```
 2. Configure o arquivo `.env` com a porta desejada:
    ```
-   PORTA=3001
+   PORTA= coloque a sua porta
    ```
 3. Inicie o servidor:
    ```
