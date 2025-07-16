@@ -9,7 +9,7 @@ dotenv.config()
 import routeAnimal from '../petshop/src/modules/animal/routes/animal.route.js'
 
 // Definindo a porta do servidor
-const port = process.env.PORTA
+const port = process.env.PORT
 
 // Criando uma instância do express
 // Isso é necessário para criar o servidor e definir as rotas

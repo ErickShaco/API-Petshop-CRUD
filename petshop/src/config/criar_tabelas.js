@@ -22,8 +22,6 @@ class Criar_Tabela {
   }
 }
 
-Criar_Tabela.Animais().then(() => {
-  console.log("Finalizou tentativa de criar tabela.");
-});
+Criar_Tabela.Animais();
 
 export default Criar_Tabela;
